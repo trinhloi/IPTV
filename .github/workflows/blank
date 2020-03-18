@@ -1,28 +1,4 @@
 #EXTM3U url-tvg="http://gg.gg/epgmytv" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1 
-#EXTINF:-1 tvg-id="" group-title="UHD" tvg-logo="",LOVE NATURE 4K UHD
-#EXTVLCOPT:http-user-agent=SmartLabs OnlineTvAppDroid Lavf/56.15.102 Mozilla/5.0 (Linux; U; Android 6.0; zh-CN; MZ-PRO 6 Build/MRA58K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/40.0.2214.89 MZBrowser/6.9.511-2018012510 UWS/2.11.0.33 Mobile Safari/537.36 Exo45Play 18.3
-http://dmitry-tv.ru/his/itv_zabava/CH_LOVENATURE4K_HLSUHD.m3u8
-#EXTINF:-1 tvg-id="" group-title="UHD" tvg-logo="",Eurosport4K UHD
-#EXTVLCOPT:http-user-agent=SmartLabs OnlineTvAppDroid Lavf/56.15.102 Mozilla/5.0 (Linux; U; Android 6.0; zh-CN; MZ-PRO 6 Build/MRA58K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/40.0.2214.89 MZBrowser/6.9.511-2018012510 UWS/2.11.0.33 Mobile Safari/537.36 Exo45Play 18.3
-http://dmitry-tv.ru/his/itv_zabava/CH_EUROSPORT4K_HLSUHD.m3u8
-#EXTINF:-1 tvg-id="" group-title="UHD" tvg-logo="",Russian Extreme Ultra UHD
-#EXTVLCOPT:http-user-agent=SmartLabs OnlineTvAppDroid Lavf/56.15.102 Mozilla/5.0 (Linux; U; Android 6.0; zh-CN; MZ-PRO 6 Build/MRA58K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/40.0.2214.89 MZBrowser/6.9.511-2018012510 UWS/2.11.0.33 Mobile Safari/537.36 Exo45Play 18.3
-http://dmitry-tv.ru/his/itv_zabava/CH_RUSSIANEXTREMEULTRA_HLSUHD.m3u8
-#EXTINF:0,KINO.WATCH UHD 4K
-#EXTVLCOPT:http-user-agent=SmartLabs OnlineTvAppDroid Lavf/56.15.102 Mozilla/5.0 (Linux; U; Android 6.0; zh-CN; MZ-PRO 6 Build/MRA58K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/40.0.2214.89 MZBrowser/6.9.511-2018012510 UWS/2.11.0.33 Mobile Safari/537.36 Exo45Play 18.3
-https://or-be-01.mycdn.video/watch/4k/index.m3u8?token=NJAZAMYQLP
-#EXTINF:-1 tvg-id="" group-title="UHD" tvg-logo="",Ultra HD Cinema UHD
-#EXTVLCOPT:http-user-agent=SmartLabs OnlineTvAppDroid Lavf/56.15.102 Mozilla/5.0 (Linux; U; Android 6.0; zh-CN; MZ-PRO 6 Build/MRA58K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/40.0.2214.89 MZBrowser/6.9.511-2018012510 UWS/2.11.0.33 Mobile Safari/537.36 Exo45Play 18.3
-http://dmitry-tv.ru/his/itv_zabava/CH_ULTRAHDCINEMA_HLSUHD.m3u8
-#EXTINF:-1 tvg-id="" group-title="UHD" tvg-logo="",One.by 4K
-#EXTVLCOPT:http-user-agent=SmartLabs OnlineTvAppDroid Lavf/56.15.102 Mozilla/5.0 (Linux; U; Android 6.0; zh-CN; MZ-PRO 6 Build/MRA58K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/40.0.2214.89 MZBrowser/6.9.511-2018012510 UWS/2.11.0.33 Mobile Safari/537.36 Exo45Play 18.3
-http://rtmp.one.by:1499
-#EXTINF:-1 tvg-id="" group-title="UHD" tvg-logo="",ULTO
-#EXTVLCOPT:http-user-agent=SmartLabs OnlineTvAppDroid Lavf/56.15.102 Mozilla/5.0 (Linux; U; Android 6.0; zh-CN; MZ-PRO 6 Build/MRA58K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/40.0.2214.89 MZBrowser/6.9.511-2018012510 UWS/2.11.0.33 Mobile Safari/537.36 Exo45Play 18.3
-http://ultotv.ru:8888/live/uhd/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="UHD" tvg-logo="",Кино UHD
-#EXTVLCOPT:http-user-agent=SmartLabs OnlineTvAppDroid Lavf/56.15.102 Mozilla/5.0 (Linux; U; Android 6.0; zh-CN; MZ-PRO 6 Build/MRA58K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/40.0.2214.89 MZBrowser/6.9.511-2018012510 UWS/2.11.0.33 Mobile Safari/537.36 Exo45Play 18.3
-http://188.35.9.18:16050/udp/238.0.16.1:69000
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/WpQtg0z.png" tvg-id="6c808e3e2f65a13ba575658160755fda",VTV1 HD
 http://xemtivi:tdmm123@tvheadendvn.duckdns.org:9981/stream/channelid/1049526380?ticket=EED4EDD06766BBAC112F1C6FAE1E346A24F452B8&profile=pass
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/R7q7HZj.png" tvg-id="c4fa06f983a592b3751defdb2e4b2526",VTV2 HD
