@@ -1,0 +1,30 @@
+#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/Pc2ZuX0.png" tvg-id="030c9af258ff0a7a6bff3d8224482ca8",VTC1
+https://5d4b3c9444341.streamlock.net:9443/encrypt/vtc1/chunklist_w1470064161_tkdG9rZW5oYXNoPWtpYjVzbjlETUZOUEJfWVU0TklXS2Jna2NCanZOeXRDR2lwX0d5TzZiTjhVMlNxcjhjd2RPcFZ6emUzQ282Q0NyRTFOc082Q0g0a1I4VWkzUm1mcG13PT0mdG9rZW5zdGFydHRpbWU9MTU4NDUyMDA0MyZ0b2tlbmVuZHRpbWU9MTU4NDU0MTY0Mw==.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/1FccD2h.png" tvg-id="d39a899fc95b24db7fe767f2e42272e5",VTC2
+https://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/vemNwkI.png" tvg-id="b0210c3b55a25e308b4893a87d578fc7",VTC3
+https://livecdn.fptplay.net/hda/vtc3hd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/0dkRtxJ.png" tvg-id="de47a440c06f28309e9ccde2963c396f",VTC4
+https://livecdn.fptplay.net/sdc/vtc4_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/IDkKiEa.png" tvg-id="646f14770242c47412288f3ad522525b",VTC5
+https://livecdn.fptplay.net/sdb/vtc5_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/rTxMJIB.png" tvg-id="d921cb2a8def3b7833495fceb6fdadc9",VTC6
+https://livecdn.fptplay.net/sdb/vtc6_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/sDWf2Q1.png" tvg-id="951b3d488789e213299c1326606cdce5",VTC7
+https://livecdn.fptplay.net/sdb/todaytv_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/cQ8Ygbk.png" tvg-id="db1c8ab625606e221ee2a5bd43d85b35",VTC8
+https://livecdn.fptplay.net/sdb/vtc8_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/QuXPUqi.png" tvg-id="5552ff143d408f136cd19a5baad0ceea",VTC9
+https://livecdn.fptplay.net/sdb/vtc9_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/F6x7ZNA.png" tvg-id="8a97989dab91f93dce05f23bf11ba48c",VTC10
+https://livecdn.fptplay.net/sdb/vtc10_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/F6x7ZNA.png" tvg-id="9ea1aaf9f6f19dca2b2da851bfe03f9c",VTC11
+https://livecdn.fptplay.net/sdb/vtc11_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/qAOy5Cd.png" tvg-id="7674ba70740a773a85c06bbbdd67afd6",VTC12
+https://livecdn.fptplay.net/sdb/vtc12_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/2RRt2M4.png" tvg-id="552c55a30ea657f6cb1a25add29774f0",VTC13
+https://livecdn.fptplay.net/sdc/vtc13_hls.smil/chunklist_b2800000.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/jlvmYDY.png" tvg-id="8d40842c853b6981f24b3319f66cd4bd",VTC14
+https://livecdn.fptplay.net/sdc/vtc14_hls.smil/chunklist_b2800000.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/kpD8AAE.png" tvg-id="609f3cbaa11bb8f7df556f728add99cc",VTC16
+https://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
