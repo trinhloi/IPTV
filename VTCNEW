@@ -1,0 +1,30 @@
+#EXTINF:-1 group-title="VTC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc1_14567301764.jpg" tvg-id="030c9af258ff0a7a6bff3d8224482ca8",VTC1
+http://xemtivi:tdmm123@tvheadendvn.duckdns.org:9981/stream/channelid/1922698243?ticket=455DC237D734CF584CB925903942848D2A669CC6&profile=pass
+#EXTINF:-1 group-title="VTC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc2_145673009926.jpg" tvg-id="d39a899fc95b24db7fe767f2e42272e5",VTC2
+https://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc3-hd_145673013407.jpg" tvg-id="b0210c3b55a25e308b4893a87d578fc7",VTC3
+https://livecdn.fptplay.net/hda/vtc3hd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_yeah1-family-vtc4_146312575079.png" tvg-id="de47a440c06f28309e9ccde2963c396f",VTC4
+https://livecdn.fptplay.net/sdc/vtc4_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc5_145673010995.jpg" tvg-id="646f14770242c47412288f3ad522525b",VTC5
+https://livecdn.fptplay.net/sdb/vtc5_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc6_145673012197.jpg" tvg-id="d921cb2a8def3b7833495fceb6fdadc9",VTC6
+https://livecdn.fptplay.net/sdb/vtc6_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/sDWf2Q1.png" tvg-id="951b3d488789e213299c1326606cdce5",VTC7
+https://5d4b3c9444341.streamlock.net:9443/encrypt/vtc7/chunklist_w2073600570_tkdG9rZW5oYXNoPXlfNXVVd1duTkl4OHVrWGQ5Y2hsNTBGZUFrNkROSzNHaGVsTC1HanpCbGRPd0dMYThTVG1XNjF1VzBybEZZeEZOU1E4WVJmREI4a1FQRno3UlBxeC1RPT0mdG9rZW5zdGFydHRpbWU9MTU4NDUxOTAxNSZ0b2tlbmVuZHRpbWU9MTU4NDU0MDYxNQ==.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc8_145792090102.jpg" tvg-id="db1c8ab625606e221ee2a5bd43d85b35",VTC8
+https://livecdn.fptplay.net/sdb/vtc8_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_lets-viet_145673303543.jpg" tvg-id="5552ff143d408f136cd19a5baad0ceea",VTC9
+https://livecdn.fptplay.net/sdb/vtc9_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc10_145673016157.jpg" tvg-id="8a97989dab91f93dce05f23bf11ba48c",VTC10
+https://livecdn.fptplay.net/sdb/vtc10_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc11-thieu-nhi_146293779839.png" tvg-id="9ea1aaf9f6f19dca2b2da851bfe03f9c",VTC11
+https://livecdn.fptplay.net/sdb/vtc11_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc12_14579482854.jpg" tvg-id="7674ba70740a773a85c06bbbdd67afd6",VTC12
+https://livecdn.fptplay.net/sdb/vtc12_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_itv_145578605209.png" tvg-id="552c55a30ea657f6cb1a25add29774f0",VTC13
+https://livecdn.fptplay.net/sdc/vtc13_hls.smil/chunklist_b2800000.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/jlvmYDY.png" tvg-id="8d40842c853b6981f24b3319f66cd4bd",VTC14
+https://5d4b3c9444341.streamlock.net:9443/encrypt/vtc14/chunklist_w2114596653_tkdG9rZW5oYXNoPWhjYXFUWGprRXotZlNwUUh2blRqWTdVd1JyOVdfbHB1MzByVXYtMXhRbnEyaTdPbHhmaHBZM2dBaS1yc29iMEtyUF9PTXRNa0piTTU0UEZHbkFvblNRPT0mdG9rZW5zdGFydHRpbWU9MTU4NDUxODg2MiZ0b2tlbmVuZHRpbWU9MTU4NDU0MDQ2Mg==.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/kpD8AAE.png" tvg-id="609f3cbaa11bb8f7df556f728add99cc",VTC16
+https://5d4b3c9444341.streamlock.net:9443/encrypt/vtc16/chunklist_w1072131691_tkdG9rZW5oYXNoPWlMSmd2ckZnczdUYWphbGx2N3VXUGlfRFBXbV9xWnRlRXp2ektNSFJJaVUzSF9JcE9iSzN6WGZiSTBXaGxtTVctR2FDRWtsMTNnaUV2VDdUbUxUUFlnPT0mdG9rZW5zdGFydHRpbWU9MTU4NDUxODkwOCZ0b2tlbmVuZHRpbWU9MTU4NDU0MDUwOA==.m3u8
