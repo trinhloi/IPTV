@@ -1,6 +1,9 @@
 #EXTINF:-1 group-title="VTV" tvg-logo="https://vtvgoimage.vtvdigital.vn/images/1__.png" tvg-id="6c808e3e2f65a13ba575658160755fda",VTV1
 https://livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist_b2500000.m3u8
 
+#EXTINF:-1 group-title="VTV" tvg-logo="https://vtvgoimage.vtvdigital.vn/images/1__.png" tvg-id="6c808e3e2f65a13ba575658160755fda",VTV1
+https://1216617970.rsc.cdn77.org/06ggHKa7V8Nk_XhkLyFW7g==,1585925525/ls-46961-3/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="VTV" tvg-logo="https://vtvgoimage.vtvdigital.vn/images/2__.png" tvg-id="c4fa06f983a592b3751defdb2e4b2526",VTV2
 https://livecdn.fptplay.net/hda/vtv2_hls.smil/chunklist_b2500000.m3u8
 
