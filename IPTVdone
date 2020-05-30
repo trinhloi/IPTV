@@ -139,6 +139,18 @@ https://livecdn.fptplay.net/sdc/hanoitv1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="KHÁC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hanoitv-2_145672748742.jpg" tvg-id="ae3a913b2cd3b97bec2d7a6d39cc4ff6",Hà Nội 2
 https://livecdn.fptplay.net/sdc/hanoitv2_hls.smil/chunklist_b2500000.m3u8
 
+#EXTINF:-1 group-title="HTVC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-thuan-viet-sd_150055171588.jpg" tvg-id="ae3a913b2cd3b97bec2d7a6d39cc4ff6",HTVC Thuần Việt
+https://livecdn.fptplay.net/hda/htvcthuanviet_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="HTVC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-gia-dinh_156420342184.jpg" tvg-id="ae3a913b2cd3b97bec2d7a6d39cc4ff6",HTVC Gia Đình
+https://livecdn.fptplay.net/hda/htvcgiadinh_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="HTVC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-du-lich_150055164332.jpg" tvg-id="ae3a913b2cd3b97bec2d7a6d39cc4ff6",HTVC Du Lịch
+https://livecdn.fptplay.net/hda/htvcdulich_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="HTVC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-thuan-viet-hd_150055170596.jpg" tvg-id="ae3a913b2cd3b97bec2d7a6d39cc4ff6",HTVC Thuần Việt HD
+https://livecdn.fptplay.net/hda/htvcthuanviethd_hls.smil/chunklist_b2500000.m3u8
+
 #EXTINF:-1 group-title="KHÁC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fox-movies_152238665778.png",Fox Movies HD
 http://xemtivi:tdmm123@tvheadendvn.duckdns.org:9981/stream/channelid/999373486?ticket=D890BB2E86279FDE1EF025EC87034AF3156F4998&profile=pass
 
