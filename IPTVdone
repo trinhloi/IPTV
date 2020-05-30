@@ -150,24 +150,3 @@ https://livecdn.fptplay.net/hda/htvcdulich_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="HTVC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-thuan-viet-hd_150055170596.jpg" tvg-id="ae3a913b2cd3b97bec2d7a6d39cc4ff6",HTVC Thuần Việt HD
 https://livecdn.fptplay.net/hda/htvcthuanviethd_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 group-title="KHÁC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fox-movies_152238665778.png",Fox Movies HD
-http://116.108.30.186/live/foxmovies/index.m3u8?token=AumDZ3tX4ZBkNy9mxwTOMQ&e=1590844282
-
-#EXTINF:-1 group-title="KHÁC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hbo_155834899497.png" tvg-id="81a3d07ed6a8777727222f524d7a5d81",HBO HD
-http://116.108.30.186/live/hbo/index.m3u8?token=fc_bQ22GBb3HblhgZu3TZw&e=1590844528
-
-#EXTINF:-1 group-title="KHÁC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cinemaworld_146580871725.png" tvg-id="d8ac4802440de8a3f755db37efb19c6e",Cinema World HD
-http://xemtivi:tdmm123@tvheadendvn.duckdns.org:9981/stream/channelid/38317272?ticket=DEDA9565C31C163BE5B9B23DDF21516EF811267D&profile=pass
-
-#EXTINF:-1 group-title="KHÁC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fox-hd_152238767588.png" tvg-id="0aa9beb4b21eddbf96786dd05b45dbaa",FOX HD
-http://xemtivi:tdmm123@tvheadendvn.duckdns.org:9981/stream/channelid/884910346?ticket=A2928F0F9B0DE997C97A041B00F861E764A46A5D&profile=pass
-
-#EXTINF:-1 group-title="KHÁC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cartoon-network_146581299646.png" tvg-id="4673338c02b80bb81fb62fcc8b49b8a8",Cartoon Network HD
-http://27.74.141.25/live/cartoon/index.m3u8?token=tuy96Wm9C1MN-voblqPGGw&e=1590844434
-
-#EXTINF:-1 group-title="KHÁC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_axn_146580810334.png" tvg-id="ae3a913b2cd3b97bec2d7a6d39cc4ff6",AXN HD
-http://116.108.30.186/live/axn/index.m3u8?token=te2lc5Cv_TmL9a2VrObeeQ&e=1590844394
-
-#EXTINF:-1 group-title="KHÁC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_max-by-hbo_158830569489.png" tvg-id="ae3a913b2cd3b97bec2d7a6d39cc4ff6",Cinemax
-http://27.74.129.1/live/maxhbo/index.m3u8?token=uT5L5GImmUSslqms3n403g&e=1590844482
