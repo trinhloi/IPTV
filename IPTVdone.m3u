@@ -1,28 +1,28 @@
-#EXTINF:-1 group-title="VTV" tvg-logo="https://vtvgoimage.vtvdigital.vn/images/1__.png" tvg-id="6c808e3e2f65a13ba575658160755fda",VTV1
+#EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv1-hd_150173500659.jpg" tvg-id="6c808e3e2f65a13ba575658160755fda",VTV1
 https://livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 group-title="VTV" tvg-logo="https://vtvgoimage.vtvdigital.vn/images/2__.png" tvg-id="c4fa06f983a592b3751defdb2e4b2526",VTV2
+#EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv2_15089873505.jpg" tvg-id="c4fa06f983a592b3751defdb2e4b2526",VTV2
 https://livecdn.fptplay.net/hda/vtv2_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 group-title="VTV" tvg-logo="https://vtvgoimage.vtvdigital.vn/images/3__.png" tvg-id="644cbb2d3f59cbde5d0b15490939aff5",VTV3
+#EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv3-hd_150173501764.jpg" tvg-id="644cbb2d3f59cbde5d0b15490939aff5",VTV3
 https://livecdn.fptplay.net/hda/vtv3hd_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 group-title="VTV" tvg-logo="https://vtvgoimage.vtvdigital.vn/images/4__.png" tvg-id="38d53c4d804894a6979655f12feb3adc",VTV4
+#EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv4_15089873636.jpg" tvg-id="38d53c4d804894a6979655f12feb3adc",VTV4
 https://livecdn.fptplay.net/hda/vtv4_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv5-hd_150173503028.jpg" tvg-id="ee85a6f226d3056df7efe9c380466920",VTV5
 https://livecdn.fptplay.net/hda/vtv5hd_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 group-title="VTV" tvg-logo="https://vtvgoimage.vtvdigital.vn/images/6__.png" tvg-id="9b4fe4a7446fd9e0a9e8245a9136d951",VTV6
+#EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv6-hd_150173503925.jpg" tvg-id="9b4fe4a7446fd9e0a9e8245a9136d951",VTV6
 https://livecdn.fptplay.net/hda/vtv6hd_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 group-title="VTV" tvg-logo="https://vtvgoimage.vtvdigital.vn/images/27__.png" tvg-id="f3531b13b4109f1e7d87767593719aec",VTV7
+#EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv7-hd_158530348557.png" tvg-id="f3531b13b4109f1e7d87767593719aec",VTV7
 https://livecdn.fptplay.net/hda/vtv7hd_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 group-title="VTV" tvg-logo="https://vtvgoimage.vtvdigital.vn/images/36__.png" tvg-id="807a7b8ac96b715978aaa6a70fd0354c",VTV8
+#EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv8-hd_150173505324.jpg" tvg-id="807a7b8ac96b715978aaa6a70fd0354c",VTV8
 https://subs-livecdn.fptplay.net/hda/vtv8hd_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 group-title="VTV" tvg-logo="https://vtvgoimage.vtvdigital.vn/images/39__.png" tvg-id="b26bcedce746c88f917280fa48b0497f",VTV9
+#EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv9_150898738134.jpg" tvg-id="b26bcedce746c88f917280fa48b0497f",VTV9
 https://livecdn.fptplay.net/hda/vtv9_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/Pc2ZuX0.png" tvg-id="030c9af258ff0a7a6bff3d8224482ca8",VTC1
